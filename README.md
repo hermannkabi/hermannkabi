@@ -7,4 +7,4 @@
 
 ---
 <br />
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hermannkabi)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Hermann's Statistics for GitHub" src="https://github-readme-stats.vercel.app/api?username=hermannkabi&theme=dark" />
