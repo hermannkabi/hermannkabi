@@ -1,7 +1,7 @@
 ## Hi, you have found Hermann
 
 
-- 🔭 I’m currently working on Diner
+- 🔭 I’m currently working on my web page
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - ⚡ Fun fact: Estonia was the first country in the world to use electronic voting
 ---
