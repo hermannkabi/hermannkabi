@@ -19,7 +19,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40px" width="40px" />]
 ---
 <br />
-<img align="center" alt="Hermann's Statistics for GitHub" src="https://github-readme-stats.vercel.app/api?username=hermannkabi&theme=dark" />
 
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40px" width="40px" />]: https://python.org
