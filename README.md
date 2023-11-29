@@ -1,8 +1,8 @@
 ## Hi, you have found Hermann
 
 
-- 🔭 I’m currently working on various school projects
-- 🌱 I’m currently learning PHP, Laravel and Django
+- 🔭 I’m currently working on a school project
+- 🌱 I’m currently learning PHP, Laravel and React.js
 ---
 
 [<img src="https://image.flaticon.com/icons/png/512/23/23931.png" alt="Twitter" height="32px" width="32px" />]:https://twitter.com/hermannkabi
